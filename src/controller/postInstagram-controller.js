@@ -4,4 +4,4 @@ function instagram(){
     }
 }
 
-
+console.log("produtos de beleza mais procurados.");
