@@ -1,5 +1,5 @@
-function instagram(){
-    for(let idx = 0; idx<10; idx++){
+function instagram() {
+    for (let id = 0; id < 10; id++) {
         console.log('instagram');
     }
 }
