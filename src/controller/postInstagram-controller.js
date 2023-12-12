@@ -1,6 +1,6 @@
 function instagram() {
     for (let i = 0; i < 10; i++) {
-        console.log('instagram');
+        console.error('instagram');
     }
 }
 
